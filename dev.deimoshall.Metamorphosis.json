@@ -87,8 +87,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/DeimosHall/Metamorphosis/releases/download/v0.6.1/metamorphosis-0.6.1.tar.xz",
-                    "sha256": "8758621b7e58d5cf1c33e9fc0b1974f78aa92c5d9e0f1cce8aba65deb35044d3"
+                    "url": "https://github.com/DeimosHall/Metamorphosis/releases/download/v0.7.0/metamorphosis-0.7.0.tar.xz",
+                    "sha256": "e62e016f3b7ec863432a09f6f3fd15986f29d6e0339b98d4332e63285d1ac4a7"
                 }
             ]
         }
